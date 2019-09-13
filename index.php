@@ -4,8 +4,8 @@
 include_once "vx-php-sdk-2.12/TinypassClient.php";
 
 //Configure for the app in question
-$applicationId ='890yMogvPN';
-$privateKey = $pianoPrivateKey = 'fPQ6lxZMLr7axmHI8yO6I3oDsEAJpYoPnMjC7sRC';
+$applicationId ='XXXX';
+$privateKey = $pianoPrivateKey = 'XXXX';
 $isSandbox = true;
 
 //Set the configuration
